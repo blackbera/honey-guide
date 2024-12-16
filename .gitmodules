@@ -4,3 +4,6 @@
 [submodule "lib/contracts-monorepo"]
 	path = lib/contracts-monorepo
 	url = https://github.com/berachain/contracts-monorepo
+[submodule "lib/solady"]
+	path = lib/solady
+	url = https://github.com/Vectorized/solady
