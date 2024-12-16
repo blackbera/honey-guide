@@ -1,0 +1,16 @@
+@mock/=lib/contracts-monorepo/test/mock/
+@openzeppelin-gov-ext/=lib/contracts-monorepo/node_modules/@openzeppelin/contracts-upgradeable/governance/extensions/
+@openzeppelin-gov/=lib/contracts-monorepo/node_modules/@openzeppelin/contracts-upgradeable/governance/
+@openzeppelin/contracts-upgradeable/=lib/contracts-monorepo/node_modules/@openzeppelin/contracts-upgradeable/
+@openzeppelin/contracts/=lib/contracts-monorepo/node_modules/@openzeppelin/contracts/
+@prb/math/=lib/contracts-monorepo/node_modules/@prb/math/
+@pythnetwork/=lib/contracts-monorepo/node_modules/@pythnetwork/pyth-sdk-solidity/
+contracts-monorepo/=lib/contracts-monorepo/
+ds-test/=lib/contracts-monorepo/lib/openzeppelin-foundry-upgrades/lib/solidity-stringutils/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+openzeppelin-foundry-upgrades/=lib/contracts-monorepo/lib/openzeppelin-foundry-upgrades/src/
+solady/=lib/contracts-monorepo/lib/solady/src/
+solady/src/=lib/contracts-monorepo/lib/solady/src/
+solady/test/=lib/contracts-monorepo/lib/solady/test/
+solidity-stringutils/=lib/contracts-monorepo/lib/openzeppelin-foundry-upgrades/lib/solidity-stringutils/
+transient-goodies/=lib/contracts-monorepo/lib/transient-goodies/src/
