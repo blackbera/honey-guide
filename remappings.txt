@@ -6,11 +6,8 @@
 @prb/math/=lib/contracts-monorepo/node_modules/@prb/math/
 @pythnetwork/=lib/contracts-monorepo/node_modules/@pythnetwork/pyth-sdk-solidity/
 contracts-monorepo/=lib/contracts-monorepo/
-ds-test/=lib/contracts-monorepo/lib/openzeppelin-foundry-upgrades/lib/solidity-stringutils/lib/ds-test/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
 forge-std/=lib/forge-std/src/
-openzeppelin-foundry-upgrades/=lib/contracts-monorepo/lib/openzeppelin-foundry-upgrades/src/
-solady/=lib/contracts-monorepo/lib/solady/src/
 solady/src/=lib/contracts-monorepo/lib/solady/src/
-solady/test/=lib/contracts-monorepo/lib/solady/test/
 solidity-stringutils/=lib/contracts-monorepo/lib/openzeppelin-foundry-upgrades/lib/solidity-stringutils/
 transient-goodies/=lib/contracts-monorepo/lib/transient-goodies/src/
